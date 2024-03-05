@@ -40,4 +40,4 @@ match jawab:
         a = input('Masuukan angka pertama : ')
         b = input('Masuukan angka kedua : ')            
         print(a,"/",b,"=", div(a,b))
-        
+                    
